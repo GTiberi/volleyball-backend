@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: volleyball
+      uri: mongodb+srv://admin:admin@volleyball.ode7yqm.mongodb.net/?retryWrites=true&w=majority
+
